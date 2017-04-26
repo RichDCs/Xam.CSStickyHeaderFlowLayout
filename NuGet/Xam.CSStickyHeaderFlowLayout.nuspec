@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xam.CSStickyHeaderFlowLayout</id>
+    <version>$version$</version>
+    <title>CSStickyHeaderFlowLayout for Xamarin.iOS</title>
+    <authors>Richard Lagrange</authors>
+    <owners>Richard Lagrange</owners>
+    <licenseUrl>https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>CSStickyHeaderFlowLayout UICollectionViewLayout iOS Xamarin Parallax Header Sticky</tags>
+  </metadata>
+  <files>
+     <!-- iOS -->
+     <file src="/Users/richardlagrange/Projects/Xam.CSStickyHeaderFlowLayout/Xam.CSStickyHeaderFlowLayout/bin/Release/Xam.CSStickyHeaderFlowLayout.dll" target="lib/Xamarin.iOS10/Xam.CSStickyHeaderFlowLayout.dll" />
+   </files>
+</package>
